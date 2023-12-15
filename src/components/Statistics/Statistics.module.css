@@ -1,0 +1,30 @@
+.goodStat {
+  color: rgb(230, 65, 65);
+  padding-left: 30px;
+}
+
+.neutralStat {
+  color: rgb(19, 91, 206);
+  padding-left: 30px;
+}
+
+.badStat {
+  color: rgb(0, 0, 0);
+  padding-left: 30px;
+}
+
+.totalStat {
+  padding: 15px 0 15px 30px;
+  width: 250px;
+  background-color: #185d85;
+  border: solid 3px black;
+  color: white;
+}
+
+.positiveStat {
+  padding: 15px 0 15px 30px;
+  width: 500px;
+  background-color: #185d85;
+  border: solid 3px black;
+  color: white;
+}
